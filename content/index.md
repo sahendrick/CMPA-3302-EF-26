@@ -1,9 +1,9 @@
 ---
-title: Template for Knowledge Base Docs Websites
+title: Exercise 06 - Your First Content and Commit
 ---
-## The index page
+## Introductory Topic
 
-This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
+Lorem Ipsum Dolar 
 
 ## Editing pages
 
