@@ -6,4 +6,4 @@ title: Chapter 1 - Foundations for Organizing Systems
 [2 - The "Organizing System" Concept](https://berkeley.pressbooks.pub/tdo4p/chapter/the-organizing-system-concept/)
 
 ## Key Concepts
-[[chapter-1-key-concepts]]
+[[chapter-1-key-concepts|Key Concepts]]
