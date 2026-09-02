@@ -3,7 +3,8 @@ title: Exercise 06 - Your First Content and Commit
 ---
 ## CMPA Relevant Chapters
 
-[[]]
+[[Chapter-1/index|Chapter 1]]
+[[Chapter-2/index|Chapter 2]]
 
 ## Editing pages
 
