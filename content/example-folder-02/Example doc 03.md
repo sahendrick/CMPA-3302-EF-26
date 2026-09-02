@@ -5,4 +5,4 @@ This is an example doc. Docs are Markdown files inside the `content/` directory.
 
 ---
 
-Return to the [[Index]]
+Return to the [[Exercise 06 said to change this]]
