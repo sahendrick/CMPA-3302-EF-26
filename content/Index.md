@@ -1,9 +1,9 @@
 ---
 title: Exercise 06 - Your First Content and Commit
 ---
-## Introductory Topic
+## CMPA Relevant Chapters
 
-Lorem Ipsum Dolar 
+[[]]
 
 ## Editing pages
 

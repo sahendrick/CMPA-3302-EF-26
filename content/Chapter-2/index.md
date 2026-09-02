@@ -1,11 +1,11 @@
 ---
-title: Category 02
+title: Chapter 2 - Design Decisions in Organizing Systems
 ---
-## The Category 02 category index page
+## Chapter 2 Landing Page
 
 ### What is this page?
 
-This is an example category index page inside the knowledge base. This page is located within the `example-category-02` folder, which is located within the `content/` folder. 
+This page, the most pagiest of pages, exists existentially to paginate your life. 
 
 On your local computer, this page corresponds to the file path: `content/example-category-02/index.md`.
 
@@ -17,4 +17,4 @@ This file uses the `title` property/frontmatter to specify the category page tit
 
 Any text added to a category folder's `index.md` file  will be used as the descriptive text for the category page.
 
-A similar category is [[example-category-01/index | Category 01]], which also uses the `index.md` method to specify a category page title and descriptive text.
+A similar category is [[Chapter-1/index| Category 01]], which also uses the `index.md` method to specify a category page title and descriptive text.
